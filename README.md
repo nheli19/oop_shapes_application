@@ -6,4 +6,4 @@ Key Features:
 - Delete shapes or clear the entire canvas.
 - Undo/redo functionality.
 - Save and load your work to and from a file.
-- View shape statistics, including largest shape and shapes' counts, using LINQ.
+- View shape statistics, including largest shape and shape counts, using LINQ.
